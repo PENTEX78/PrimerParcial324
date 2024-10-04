@@ -1,0 +1,10 @@
+c:\users\alexm\onedrive\documentos\visual studio 2012\Projects\PrimerParcial\PrimerParcial\bin\Debug\PrimerParcial.exe.config
+c:\users\alexm\onedrive\documentos\visual studio 2012\Projects\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.csprojResolveAssemblyReference.cache
+c:\users\alexm\onedrive\documentos\visual studio 2012\Projects\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.Form1.resources
+c:\users\alexm\onedrive\documentos\visual studio 2012\Projects\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.Properties.Resources.resources
+c:\users\alexm\onedrive\documentos\visual studio 2012\Projects\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.csproj.GenerateResource.Cache
+c:\users\alexm\onedrive\documentos\visual studio 2012\Projects\PrimerParcial\PrimerParcial\bin\Debug\PrimerParcial.exe
+c:\users\alexm\onedrive\documentos\visual studio 2012\Projects\PrimerParcial\PrimerParcial\bin\Debug\PrimerParcial.pdb
+c:\users\alexm\onedrive\documentos\visual studio 2012\Projects\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.exe
+c:\users\alexm\onedrive\documentos\visual studio 2012\Projects\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.pdb
+c:\users\alexm\onedrive\documentos\visual studio 2012\Projects\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.FormAgregarPersona.resources
